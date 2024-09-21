@@ -1,0 +1,48 @@
+.divbox1 {
+    border: 3px solid rgb(209, 205, 205);
+    height: 480px;
+    width: 480px;
+    margin-left: 35%;
+  }
+  .head1 {
+    color: blue;
+    margin-left: 3%;
+  }
+  .head2 {
+      color: blue;
+      margin-left: 10%;
+      margin-top: 10%;
+    }
+    .input1{
+      margin-left: 10%;
+      width: 84%;
+    }
+    .button1{
+      height: 40px;
+      width: 84%;
+      background-color: #1a5f34;
+      color: white;
+      font-size: 18px;
+      border: none;
+      margin-top: 7%;
+      margin-left: 10%;
+    }
+    .input2{
+      margin-left: 10%;
+      color:blue;
+      margin-top: 2%;
+    }
+    .button2{
+      height: 35px;
+      width: 18%;
+      background-color: #da1212;
+      color: white;
+      font-size: 18px;
+      border: none;
+      margin-top: 7%;
+      margin-left: 10%;
+    }
+    .div2{
+      margin-top: 0%;
+      margin-left: 0%;
+    }
